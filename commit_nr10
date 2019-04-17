@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+//komentarz
 int main()
 {
   int origNum, num, rem, sum = 0;

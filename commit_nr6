@@ -35,8 +35,8 @@ int main()
         {
             cout << j << " ";
         }
-        cout << endl;
-    }
+        cout << endl;//rtetertrt
+    }//qwrrttyyi
 
-    return 0;
-}
+    return 0;//21425425
+}//12344124

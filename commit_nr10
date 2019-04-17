@@ -1,4 +1,4 @@
-#include <iostream>
+#include <iostream> //komentarz2
 using namespace std;  //new comment
 //komentarz
 int main()
